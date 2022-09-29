@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello World 👋 It's [JuanMa!](https://www.linkedin.com/in/juanmanuelchico/)
+I'm a Frontend developer with my ♥ in [React](https://reactjs.org), [Twitch](https://www.twitch.tv/mrbuggamer)
 
-<!--
-**JuanMaChico/JuanMaChico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/juanmachicco">
+<img align="left" alt="JuanMa Chico Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/juanmanuelchico/">
+<img align="left" alt="JuanMa Chico LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+
+<a href="https://www.youtube.com/channel/UC4Bmq-s0-TZPvBnAgkQI0pQ">
+<img align="left" alt="JuanMa Chico YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
+</a>
+
+<a href="https://www.instagram.com/juanmachico/">
+<img align="left" alt="JuanMa Chico Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
+
+<br />
