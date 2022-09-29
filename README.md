@@ -1,5 +1,6 @@
 ## Hello World 👋 It's [JuanMa!](https://www.linkedin.com/in/juanmanuelchico/)
-I'm a Frontend developer with my ♥ in [React](https://reactjs.org), [Twitch](https://www.twitch.tv/mrbuggamer)
+I'm a Frontend developer with my ♥ in [React](https://reactjs.org)
+I have a [Twitch] channel (https://www.twitch.tv/mrbuggamer)
 
 <br/>
 
