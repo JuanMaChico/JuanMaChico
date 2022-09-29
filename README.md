@@ -22,7 +22,7 @@ I have a [Twitch](https://www.twitch.tv/mrbuggamer) channel
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="./assets/HomeStudio.jpeg" width="240px" />
 
 <br />
 
