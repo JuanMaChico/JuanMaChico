@@ -19,21 +19,14 @@ I have a [Twitch](https://www.twitch.tv/mrbuggamer) channel
 <a href="https://www.instagram.com/juanmachico/">
 <img align="left" alt="JuanMa Chico Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-
 <br />
-
 <img align="right" alt="GIF" src="./assets/FotoFKTech.png" width="240px" />
-<img align="right" alt="GIF" src="./assets/HomeStudio.jpge" width="240px" />
-
 <br />
 
 ## What i'm up to
-
 - 🔭 I’m currently working @ [FK{Tech}](https://www.linkedin.com/company/fk-tech-srl/mycompany/).
 - 🌱 I’m currently working with [React](https://reactjs.org).
-
 <br />
-
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
