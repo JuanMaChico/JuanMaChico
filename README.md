@@ -1,5 +1,5 @@
 # Hello World 👋 It's [JuanMa!](https://www.linkedin.com/in/juanmanuelchico/)
-### I'm a Frontend developer with my ♥ in [React](https://reactjs.org), I have a [Twitch](https://www.twitch.tv/mrbuggamer) channel
+### I'm a Frontend developer with my ♥ in [React](https://reactjs.org), I have a [Twitch](https://www.twitch.tv/juanmachico_) channel
 
 <br />
 	<img align="right" alt="GIF" src="./assets/setup.jpg" width="100%" />
@@ -33,7 +33,7 @@
 	<img align="right" alt="GIF" src="./assets/FotoFKTech.png" width="240px" />
 <br />
 
-## What i'm up to
+### What i'm up to
 -   🔭 I’m currently working @ [FK{Tech}](https://www.linkedin.com/company/fk-tech-srl/mycompany/).
 -   🌱 I’m currently working with [React](https://reactjs.org).
     <br />
