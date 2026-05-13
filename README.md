@@ -2,17 +2,17 @@
 ### I'm a Frontend developer with my ♥ in [React](https://reactjs.org), I have a [Twitch](https://www.twitch.tv/juanmachico_) channel
 
 <br />
-	<img align="right" alt="GIF" src="./assets/setup.jpg" width="100%" />
+	<img align="right" alt="GIF" src="./assets/setupToWork.jpg" width="100%" />
 <br />
 
 <br />
 
 <hr />
 
-#### This is my setUp for work
-<br/>
+### This is my setUp for work
 
 <br />
+
 <a href="https://twitter.com/juanmachicco">
 	<img align="left" alt="JuanMa Chico Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
@@ -30,7 +30,7 @@
 </a>
 
 <br />
-	<img align="right" alt="GIF" src="./assets/FotoFKTech.png" width="240px" />
+	<img align="right" alt="GIF" src="./assets/profile.png" width="240px" />
 <br />
 
 ### What i'm up to
